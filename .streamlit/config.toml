@@ -1,0 +1,15 @@
+[theme]
+# A vibrant, energetic accent color (like a sunset orange/red)
+primaryColor = "#FF4B4B"
+
+# Deep dark mode background
+backgroundColor = "#0E1117"
+
+# Slightly lighter background for the input boxes and expanders
+secondaryBackgroundColor = "#262730"
+
+# Crisp white text
+textColor = "#FAFAFA"
+
+# Clean, modern font
+font = "sans serif"
